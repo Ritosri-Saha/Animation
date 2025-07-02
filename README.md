@@ -15,7 +15,8 @@ A simulation of atomic structure using motion and orbit animations. This include
 - Customizable particle colors
 
 📂 Location: `Atom motion/index.html`
-
+🔗 [Atom Motion](https://ritosri-saha.github.io/Animation/Atom%20motion/)
+ 
 
 ### 2. 🔮 Pokémon Cards Animation
 An interactive card animation inspired by collectible Pokémon cards. This project includes:
@@ -25,7 +26,7 @@ An interactive card animation inspired by collectible Pokémon cards. This proje
 - Clean layout using HTML & CSS
 
 📂 Location: `Pokemon cards/index.html`
-
+🔗 [Pokémon Cards](https://ritosri-saha.github.io/Animation/Pokemon%20cards/) 
 ---
 
 ## 🛠️ Built With
